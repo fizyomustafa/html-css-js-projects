@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+
+#nav_bar {
+    float: right;
+}
+
+#nav-bar-left{
+    position: relative;
+    top: 0px;
+    left: 0;
+    float: left;
+
+}
+
+#nav-bar-left li{
+    display: inline-block;
+    padding: 8px;
+    color: #535252;
+    position: relative;
+    top: 0px;
+    left: 0;
+}
+
+#nav-bar-left li a:hover{
+    text-decoration: underline;
+}
+
+#nav-bar-right li {
+    display: inline-block;
+    padding: 8px;
+    color: #535252;
+    position: relative;
+    bottom: 15px;
+}
+
+#appicon{
+    position: relative;
+    bottom: 15px;
+}
+
+#nav_bar #giris {
+    background: #4887ef; 
+    margin-right: 25px;
+    padding: 7px 15px;
+    border-radius: 3px; 
+    font-weight: bold;
+    color: white;
+}
+
+#giris:hover { 
+    box-shadow: 1px 1px 5px #999;
+}
+
+
+.nav-links {
+    color: #404040;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li.nav-links a:hover {
+    text-decoration: underline;
+}
+
+
+
+#google_logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 112px;
+    padding-bottom: 20px;
+}
+
+.form{
+    border-radius: 100px;
+    text-align: center;
+
+}
+
+#form-search {
+    position: relative;
+    left: 14px;
+    bottom: 10px;
+    width: 450px;
+    line-height: 32px;
+    padding: 10px 10px;
+    border-radius: 35px;
+    border-top-color: #7c7979;
+    text-indent: 40px;
+}
+
+.form #form-search {
+    padding: 0 8px;
+}
+
+.buttons {
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 300px;
+} 
+
+.buttons input{
+    padding: 7px;
+    font-size: 12px;
+    margin: 5px;
+    color: #8a8585;
+    border: none;
+    border-radius: 3px;
+
+    background-color:rgba(209, 205, 205, 0.8)
+}
+
+.icon {
+    position: relative;
+    top: 10px;
+}
+
+.content {
+    font-size: 11px;
+}
+
+
+#newmicrophone{
+    width: 12px;
+    position: relative;
+    bottom: 3px;
+    right: 25px;
+}
+#search{
+    width: 30px;
+    position: relative;
+    top: 2px;
+    right: 460px;
+}
+
+
+#search-button{
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #f6f6f6;
+    border: 1px solid #f6f6f6;
+    border-radius: 4px;
+}
+
+#search-button:hover{
+    box-shadow: 1px 1px 5px rgb(150, 147, 147);
+}
+
+.English {
+    text-decoration:underline;
+    color: #1d6be7;
+    font-weight: 800;
+}
+
+#mustafa{
+position:relative;
+bottom:250px;
+left: 150px;
+font-weight: bold;
+color: blue;
+}
+
