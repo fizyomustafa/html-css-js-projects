@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hesap Makinesi</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="App.js"></script>
+</head>
+
+<body>
+    </div>
+        <div class="box">
+        <div class="display">
+        <input type="text" size="18" id="first_num" placeholder="Birinci sayıyı giriniz">
+        <br><br>
+        <input type="text" size="18" id="second_num" placeholder="İkinci sayıyı giriniz">
+        <br><br>
+        <input type="text" readonly size="18" id="sonuc" >
+        <div id="kutuSonuc">sonuç için işleme basınız</div>
+    </div>
+  
+    <div class="keys">
+        <p>
+            <input type="button" class="button pink" value="+" onclick='return topla()'>
+        
+            <input type="button" class="button pink"   
+            value="-" onclick='return cikarma()'>
+            
+            <input type="button" class="button pink" 
+            value="*" onclick='return carpma()'>
+            
+            <input type="button" class="button pink" 
+            value="/" onclick='return bolme()'>
+        </p>
+        
+        <p>
+            <input type="button" class="button black" 
+            value="7" onclick='v("7")'>
+            
+            <input type="button"class="button black" value="8" onclick='v("8")'>
+            
+            <input type="button" class="button black" value="9" onclick='v("9")'>
+            
+            <input type="button" class="button gray" value="C" onclick='c("")'>
+        </p>
+
+        <p>
+            <input type="button" class="button black" value="4" onclick='v("4")'>
+        
+            <input type="button" class="button black" value="5" onclick='v("5")'>
+        
+            <input type="button" class="button black" value="6" onclick='v("6")'>
+            
+            <input type="button" class="button gray" value="m-" onclick='c("IꓭƎ⅂ꓭƎ⅂")'>
+        </p>
+
+        <p>
+            <input type="button" class="button black" value="1" onclick='v("1")'>
+            
+            <input type="button" class="button black" value="2" onclick='v("2")'>
+        
+            <input type="button" class="button black" value="3" onclick='v("3")'>
+            
+            <input type="button" class="button gray" value="m+" onclick='c("FIZYOMUSTAFA")'>
+        </p>
+
+        <p>
+            <input type="button" class="button black" value="0" onclick='v("0")'>
+            
+            <input type="button" class="button black" value="€" onclick='return euro()'>
+        
+            <input type="button" class="button black" value="$" onclick='return dolar()'>
+            
+            <input type="button" class="button green" value="=" onclick='e()'>
+            <br>
+            <div class="by_m">fizyo &#9410 </div>
+        </p>
+
+    </div>
+    
+</body>
+</html>
