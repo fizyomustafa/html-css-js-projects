@@ -13,3 +13,5 @@ Here is My School html-css-js Projects Class:
 6-Funny Calculator/Süpriz Eğlenceli Hesap Makinesi(hesapmakinesi-pro) https://fizyomustafa.github.io/html-css-js-projects/hesapmakinesi-pro/
 
 7-Grid Layouts Projects (grid-layout) https://fizyomustafa.github.io/html-css-js-projects/grid-layouts/
+
+8-Yaş Hesaplama ve Fal Bakma (falci-age-calculator) https://fizyomustafa.github.io/html-css-js-projects/falci-age-calculator/
