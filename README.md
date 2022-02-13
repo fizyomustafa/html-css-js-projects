@@ -17,3 +17,5 @@ Here is My School html-css-js Projects Class:
 8-Yaş Hesaplama ve Fal Bakma (falci-age-calculator) https://fizyomustafa.github.io/html-css-js-projects/falci-age-calculator/
 
 9-Twitter Clone https://fizyomustafa.github.io/html-css-js-projects/my-twitter-clone/
+
+10- Clarusway Website Template https://fizyomustafa.github.io/html-css-js-projects/cw-website-template/
