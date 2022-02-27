@@ -28,4 +28,4 @@ Here is My School html-css-js Projects Class:
 
 14-Lottary Game (Çılgın Sayısal Loto) https://fizyomustafa.github.io/html-css-js-projects/Lottary-Game/
 
-15-14-Lottary Game (Çılgın Sayısal Loto) https://fizyomustafa.github.io/html-css-js-projects/CheckoutCard/
+15-Checkout Card (Sipariş Sepeti) https://fizyomustafa.github.io/html-css-js-projects/CheckoutCard/
