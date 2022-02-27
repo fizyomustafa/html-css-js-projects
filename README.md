@@ -27,3 +27,5 @@ Here is My School html-css-js Projects Class:
 13-Ios Iphone Calculator https://fizyomustafa.github.io/html-css-js-projects/Ios-Calculator/
 
 14-Lottary Game (Çılgın Sayısal Loto) https://fizyomustafa.github.io/html-css-js-projects/Lottary-Game/
+
+15-14-Lottary Game (Çılgın Sayısal Loto) https://fizyomustafa.github.io/html-css-js-projects/CheckoutCard/
