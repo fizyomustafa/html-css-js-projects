@@ -18,7 +18,7 @@
 
 9-Twitter Clone https://fizyomustafa.github.io/html-css-js-projects/my-twitter-clone/
 
-10- Clarusway Website Template https://fizyomustafa.github.io/html-css-js-projects/cw-website-template/
+10-Clarusway Website Template https://fizyomustafa.github.io/html-css-js-projects/cw-website-template/
 
 11-ToDo-App (ismini Tez Y-App koydum :) https://fizyomustafa.github.io/html-css-js-projects/ToDo-App/
 
@@ -29,3 +29,5 @@
 14-Lottary Game (Çılgın Sayısal Loto) https://fizyomustafa.github.io/html-css-js-projects/Lottary-Game/
 
 15-Checkout Card (Sipariş Sepeti) https://fizyomustafa.github.io/html-css-js-projects/CheckoutCard/
+
+16-Sass Portfolio Website (Sass ile hazırladığım Portfolio Örneğim) https://fizyomustafa.github.io/html-css-js-projects/SassPortfolio/
