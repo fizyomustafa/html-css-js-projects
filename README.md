@@ -1,4 +1,4 @@
-:: Here is My School html-css-js Projects Class :: HTML-CSS-JS ile yaptığım Projeler::
+:: Here is My School html-css-sass-bootstrap-javascript Projects Class :: HTML-CSS-SASS-BOOTSTRAP-JAVASCRIPT ile yaptığım Projeler::
 
 1-Google Clone Website (my-google) https://fizyomustafa.github.io/html-css-js-projects/my-google/
 
