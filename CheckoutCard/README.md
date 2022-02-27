@@ -13,8 +13,6 @@ At the end of the this project, students will be able to;
    
 ## Problem Statement
 
-- You can use [Checkout_Page](https://github.com/clarusway/clarusway-full-stack-10-21/tree/main/javascript/Projects/005-Checkout_Page/) template for project.
-
 - Create a checkout page following the design and make the calculation of cart dynamically with using of DOM and Event in JS.
 
 ![Form](checkout_app.gif)
