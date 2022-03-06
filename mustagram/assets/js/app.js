@@ -27,7 +27,7 @@ let isFaceIDActive = false;
 faceIdButton.style.display = "none";
 
 // FaceID için Gereken Kod Bloğu...
-const localHost = "http://127.0.0.1:5501";
+const localHost = "https://fizyomustafa.github.io/html-css-js-projects/mustagram/";
 const video = document.getElementById("video");
 let localStream = null;
 let isModelsLoaded = false;
