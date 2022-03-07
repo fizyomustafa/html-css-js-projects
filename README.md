@@ -33,3 +33,5 @@
 16-Sass Portfolio Website (Sass ile hazırladığım Portfolio Örneğim) https://fizyomustafa.github.io/html-css-js-projects/SassPortfolio/
 
 17-FaceID Instagram Projects (Yapayzekalı gerçekçi Insta Klonu) https://fizyomustafa.github.io/html-css-js-projects/mustagram/
+
+18- Fetch Api (api veri çekme yöntemleri) https://fizyomustafa.github.io/html-css-js-projects/FetchAPI
