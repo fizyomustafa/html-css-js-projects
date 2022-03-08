@@ -34,4 +34,6 @@
 
 17-FaceID Instagram Projects (Yapayzekalı gerçekçi Insta Klonu) https://fizyomustafa.github.io/html-css-js-projects/mustagram/
 
+18-Movie Seat App (sinema koltuk seçimi) https://fizyomustafa.github.io/html-css-js-projects/Movie-Seat-App/
+
 18- Fetch Api (api veri çekme yöntemleri) https://fizyomustafa.github.io/html-css-js-projects/FetchApi
