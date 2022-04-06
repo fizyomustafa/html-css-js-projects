@@ -41,3 +41,5 @@
 20-Bootstrap Company Template (Bootstrap Örneği) https://fizyomustafa.github.io/html-css-js-projects/Bootstrap_Company/
 
 21-Wheather App (hava durumu uygulaması) https://fizyomustafa.github.io/html-css-js-projects/Weather-App/
+
+22-Wheather App JQUERY kullanarak https://fizyomustafa.github.io/html-css-js-projects/Weather_App_JQuery/
