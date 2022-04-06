@@ -1,7 +1,6 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-009 : Weather_Condition_App_With_JQuery (JS-09)
+
+# Project: Weather_Condition_App_With_JQuery
 
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
@@ -19,7 +18,6 @@ At the end of the this project, students will be able to;
 
 - Design a weather condition page following the design and populate data for searched city with using of axios in JS.
 
-![Form](weather_app.gif)
 
 User story;
 
