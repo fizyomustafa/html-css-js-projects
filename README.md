@@ -39,3 +39,5 @@
 19-Fetch Api (api veri çekme yöntemleri) https://fizyomustafa.github.io/html-css-js-projects/FetchApi
 
 20-Bootstrap Company Template (Bootstrap Örneği) https://fizyomustafa.github.io/html-css-js-projects/Bootstrap_Company/
+
+21-Wheather App (hava durumu uygulaması) https://fizyomustafa.github.io/html-css-js-projects/Weather-App/
